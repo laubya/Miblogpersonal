@@ -1,9 +1,11 @@
 Mi nombre es Laura Bedoya
 
+Nací en Bogotá, Colombia
+
 Tengo 27 años
 
 Estudié medicina en mi pregrado
 
-Autonomamente estoy estudiando programación con python 
+Empecé a estudiar programación de forma autonoma en 2023, desde junio 2024 estoy estudiando python 
 
-Me encanta la biología sobre todo marina, la psicología, el crecimiento personal, la buena nutrición, el baile, la literatura y la ciencia 
+Me encanta observar la naturaleza sobre todo marina, aprender de la psicología, el crecimiento personal, la buena nutrición, disfruto del baile, la literatura y la ciencia
